@@ -1,4 +1,16 @@
+# This is the better way proposed by Mistral.ai
+# def cipher(key)
+#   puts "What is the message to code Sir?"
+#   sentence = gets.chomp
 
+#   new_sentence = sentence.each_char.map do |char|
+#     char_code = char.ord
+#     shift = (char_code + key - (char =~ /[a-z]/i ? 97 : 65)) % 26 + (char =~ /[a-z]/i ? 97 : 65)
+#     shift.chr
+#   end
+
+#   puts new_sentence.join
+# end
 
 def cipher(key)
   puts "What is the message to code Sir?"
