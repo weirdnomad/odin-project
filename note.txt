@@ -1,0 +1,6 @@
+Take a string
+SPLIT it into an ARRAY
+CREATE a hash
+COMPARE with a given array of words
+ADD matching words into the hash
+RETURN hash
