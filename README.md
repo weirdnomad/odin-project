@@ -19,3 +19,9 @@ The aim here is to count substrings in a string with a given dictionary. It was 
 It help choose the best days to buy and sell your goods, added a shuffle thing just to know it works as intendend.
 
 > Easier than the last one, as I crunch on a loop in a loop in the last one I made it way faster.
+
+## Bubble sort
+
+And again, a lot easier to achieve. Really appreciable.
+
+> The main problem is always finding the rigth path in the brain that leads to the answer.
